@@ -35,7 +35,3 @@ The contract maintains 100% functional compatibility with WETH, including all th
 ```shell
 $ forge build
 ```
-
-## Deploy
-
-For CREATE2 deployment, use the compiled bytecode from `out/Etherium.sol/Etherium.json`.
