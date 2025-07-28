@@ -12,7 +12,7 @@ The only modifications made from the original WETH contract are:
 
 ## Deployed at
 
-- Mainnet: https://etherscan.io/address/0xc5471b96d3d8bb5d387c04139f4a3d0626d95330#code
+- Mainnet: https://etherscan.io/address/0xc5471b96d3d8bb5d387c04139f4a3d0626d95330
 - Base https://basescan.org/address/0xc5471b96d3d8bb5d387c04139f4a3d0626d95330
 
 ### CREATE2 params
